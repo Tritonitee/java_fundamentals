@@ -24,7 +24,7 @@ To get started with this project please follow these instructions:
 16) If the Java file contains a main() method, you can right click on the file and select "run" to run the code within the main()
 ```
 
-### Prerequisites
+### Prerequisite
 
 ```
 Install Java 8 JDK 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
